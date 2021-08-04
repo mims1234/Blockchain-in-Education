@@ -1,0 +1,14 @@
+/* Styles go here */
+*{
+    background-color: burlywood;
+}
+
+.Labels{
+    margin-left: 25px;
+}
+
+#admission_submit{
+    border-radius: 25%;
+    background-color: crimson;
+    color: white;
+}
