@@ -3,7 +3,7 @@ Topic: Blockchain in Education: Decentralized Degree Database
 Project Team:
 
 - Bindushree M
-- Vaishnavi Vivek 
+- Vaishnavi Vivek - https://github.com/VaishnaviVivek
 - Dhruva Kumar HD
 - Mohammed Imran Mohsin - https://github.com/mims1234
 
